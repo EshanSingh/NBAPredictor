@@ -1,0 +1,3 @@
+- Remove League Averages from players.csv 
+- Fix player_mvp_stats with updated players.csv
+- Fix accents with Jokic (MVP and players Different)
