@@ -1,3 +1,11 @@
+Data Cleaning
+
 - Remove League Averages from players.csv XXX
 - Fix player_mvp_stats with updated players.csv XXX
 - Fix accents with Jokic (MVP and players Different) XXX
+
+---
+
+ML
+
+- Try other models to improve accuracy XXX (Random Forest, check more)
