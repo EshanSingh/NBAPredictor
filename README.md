@@ -1,4 +1,4 @@
-NBA MVP Prediction model:
+## NBA MVP Prediction model:
 
 Given a set of players and their stats over a single year, predicts the probability of each player winning the MVP title.
 
